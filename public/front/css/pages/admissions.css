@@ -1,0 +1,7 @@
+.admission-img {
+    background-image: url("../images/how-apply/university.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 30rem;
+}
